@@ -1,11 +1,11 @@
 sector,avg_weighted_risk,sentiment_nss,composite_sentiment_index,sentiment_velocity,risk_level,avg_impact,momentum_score,divergence_flag,sector_classification,investment_signal
-Banking,71.4,-57.1,-58.6,0.0,HIGH,6.7,-57.1,Normal,Watch Closely,NEUTRAL
-Energy,36.4,18.2,21.3,0.0,MEDIUM,7.0,36.4,Normal,Watch Closely,NEUTRAL
-FMCG,0.0,100.0,100.0,0.0,LOW,7.0,100.0,Normal,Monitor Risk,BUY BIAS
-Fintech,100.0,-100.0,-100.0,0.0,HIGH,6.7,-100.0,Normal,Watch Closely,NEUTRAL
-Healthcare,33.3,33.3,29.7,0.0,MEDIUM,7.3,33.3,Normal,Watch Closely,NEUTRAL
+Banking,62.5,-37.5,-38.3,0.0,HIGH,6.8,-37.5,Normal,Watch Closely,NEUTRAL
+Energy,41.7,8.3,11.1,0.0,MEDIUM,7.1,25.0,Normal,Watch Closely,NEUTRAL
+FMCG,0.0,100.0,100.0,0.0,LOW,7.5,100.0,Normal,Monitor Risk,BUY BIAS
+Fintech,60.0,-40.0,-38.9,0.0,HIGH,6.8,-40.0,Normal,Watch Closely,NEUTRAL
+Healthcare,0.0,100.0,100.0,0.0,LOW,7.0,100.0,Normal,Monitor Risk,BUY BIAS
 IT,22.3,41.7,42.8,0.0,LOW,7.1,33.3,Normal,Monitor Risk,BUY BIAS
-Manufacturing,34.3,18.2,17.7,0.0,MEDIUM,6.8,18.2,Normal,Watch Closely,NEUTRAL
-Other,17.7,39.5,40.8,0.0,LOW,6.9,42.1,Normal,Monitor Risk,BUY BIAS
+Manufacturing,34.3,18.2,19.0,0.0,MEDIUM,7.0,18.2,Normal,Watch Closely,NEUTRAL
+Other,16.9,38.9,40.3,0.0,LOW,7.0,38.9,Normal,Monitor Risk,BUY BIAS
 Retail,0.0,0.0,0.0,0.0,LOW,6.0,0.0,Normal,Monitor Risk,NEUTRAL
 Startup,0.0,85.7,88.2,0.0,LOW,7.0,85.7,Normal,Monitor Risk,BUY BIAS
