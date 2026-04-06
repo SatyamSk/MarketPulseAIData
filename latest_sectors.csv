@@ -1,11 +1,11 @@
-sector,avg_weighted_risk,sentiment_nss,composite_sentiment_index,sentiment_velocity,risk_level,avg_impact,momentum_score,divergence_flag,sector_classification,investment_signal
-Banking,62.5,-37.5,-38.3,0.0,HIGH,6.8,-37.5,Normal,Watch Closely,NEUTRAL
-Energy,41.7,8.3,11.1,0.0,MEDIUM,7.1,25.0,Normal,Watch Closely,NEUTRAL
-FMCG,0.0,100.0,100.0,0.0,LOW,7.5,100.0,Normal,Monitor Risk,BUY BIAS
-Fintech,60.0,-40.0,-38.9,0.0,HIGH,6.8,-40.0,Normal,Watch Closely,NEUTRAL
-Healthcare,0.0,100.0,100.0,0.0,LOW,7.0,100.0,Normal,Monitor Risk,BUY BIAS
-IT,22.3,41.7,42.8,0.0,LOW,7.1,33.3,Normal,Monitor Risk,BUY BIAS
-Manufacturing,34.3,18.2,19.0,0.0,MEDIUM,7.0,18.2,Normal,Watch Closely,NEUTRAL
-Other,16.9,38.9,40.3,0.0,LOW,7.0,38.9,Normal,Monitor Risk,BUY BIAS
-Retail,0.0,0.0,0.0,0.0,LOW,6.0,0.0,Normal,Monitor Risk,NEUTRAL
-Startup,0.0,85.7,88.2,0.0,LOW,7.0,85.7,Normal,Monitor Risk,BUY BIAS
+sector,avg_weighted_risk,sentiment_nss,impact_weighted_sentiment,composite_sentiment_index,sentiment_velocity,risk_level,avg_impact,total_mentions,positive_count,negative_count,neutral_count,momentum_score,divergence,divergence_flag,govt_signals,contrarian_count,geopolitical_flags,valence,arousal,sector_classification,investment_signal
+Banking,33.3,-33.3,-36.8,-35.4,2.9,MEDIUM,6.3,3,0,1,2,-33.3,3.5,Normal,0,0,2,0.4,0.37,Monitor Risk,AVOID
+Energy,44.4,11.1,10.4,10.7,-0.4,MEDIUM,7.4,9,5,4,0,33.3,0.7,Normal,0,0,6,0.5,0.53,Watch Closely,NEUTRAL
+FMCG,0.0,100.0,100.0,100.0,0.0,LOW,7.5,2,2,0,0,100.0,0.0,Normal,0,0,0,0.75,0.6,Opportunity,BUY BIAS
+Fintech,24.0,33.3,42.9,39.1,78.0,MEDIUM,7.0,3,2,1,0,33.3,9.6,Normal,0,0,1,0.5,0.5,Opportunity,BUY BIAS
+Healthcare,0.0,100.0,100.0,100.0,0.0,LOW,7.0,2,2,0,0,100.0,0.0,Normal,0,0,0,0.75,0.6,Opportunity,BUY BIAS
+IT,32.0,12.5,16.7,15.0,-27.8,MEDIUM,6.8,8,4,3,1,12.5,4.2,Normal,0,0,1,0.5,0.47,Monitor Risk,NEUTRAL
+Manufacturing,0.0,50.0,61.5,56.9,37.9,LOW,6.5,2,1,0,1,50.0,11.5,Normal,0,0,0,0.6,0.45,Low Priority,BUY BIAS
+Other,25.9,11.1,12.9,12.2,-28.1,MEDIUM,6.9,18,9,7,2,5.6,1.8,Normal,0,1,6,0.5,0.54,Monitor Risk,NEUTRAL
+Retail,56.0,-100.0,-100.0,-100.0,-100.0,HIGH,7.0,1,0,1,0,-100.0,0.0,Normal,0,0,0,0.2,0.4,Watch Closely,AVOID
+Startup,0.0,0.0,0.0,0.0,-88.2,LOW,5.0,1,0,0,1,0.0,0.0,Normal,0,0,0,0.5,0.4,Low Priority,NEUTRAL
