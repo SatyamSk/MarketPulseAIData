@@ -1,11 +1,10 @@
 sector,avg_weighted_risk,sentiment_nss,impact_weighted_sentiment,composite_sentiment_index,sentiment_velocity,risk_level,avg_impact,total_mentions,positive_count,negative_count,neutral_count,momentum_score,divergence,divergence_flag,govt_signals,contrarian_count,geopolitical_flags,valence,arousal,sector_classification,investment_signal
-Banking,33.3,-33.3,-36.8,-35.4,2.9,MEDIUM,6.3,3,0,1,2,-33.3,3.5,Normal,0,0,2,0.4,0.37,Monitor Risk,AVOID
-Energy,44.4,11.1,10.4,10.7,-0.4,MEDIUM,7.4,9,5,4,0,33.3,0.7,Normal,0,0,6,0.5,0.53,Watch Closely,NEUTRAL
-FMCG,0.0,100.0,100.0,100.0,0.0,LOW,7.5,2,2,0,0,100.0,0.0,Normal,0,0,0,0.75,0.6,Opportunity,BUY BIAS
-Fintech,24.0,33.3,42.9,39.1,78.0,MEDIUM,7.0,3,2,1,0,33.3,9.6,Normal,0,0,1,0.5,0.5,Opportunity,BUY BIAS
-Healthcare,0.0,100.0,100.0,100.0,0.0,LOW,7.0,2,2,0,0,100.0,0.0,Normal,0,0,0,0.75,0.6,Opportunity,BUY BIAS
-IT,32.0,12.5,16.7,15.0,-27.8,MEDIUM,6.8,8,4,3,1,12.5,4.2,Normal,0,0,1,0.5,0.47,Monitor Risk,NEUTRAL
-Manufacturing,0.0,50.0,61.5,56.9,37.9,LOW,6.5,2,1,0,1,50.0,11.5,Normal,0,0,0,0.6,0.45,Low Priority,BUY BIAS
-Other,25.9,11.1,12.9,12.2,-28.1,MEDIUM,6.9,18,9,7,2,5.6,1.8,Normal,0,1,6,0.5,0.54,Monitor Risk,NEUTRAL
-Retail,56.0,-100.0,-100.0,-100.0,-100.0,HIGH,7.0,1,0,1,0,-100.0,0.0,Normal,0,0,0,0.2,0.4,Watch Closely,AVOID
-Startup,0.0,0.0,0.0,0.0,-88.2,LOW,5.0,1,0,0,1,0.0,0.0,Normal,0,0,0,0.5,0.4,Low Priority,NEUTRAL
+Banking,50.0,0.0,3.4,2.0,37.4,HIGH,7.2,4,2,2,0,0.0,3.4,Normal,0,0,1,0.42,0.47,Watch Closely,NEUTRAL
+Energy,52.6,-42.9,-44.7,-44.0,-54.7,HIGH,6.7,7,1,4,2,0.0,1.8,Normal,0,0,4,0.4,0.53,Monitor Risk,AVOID
+FMCG,0.0,100.0,100.0,100.0,0.0,LOW,7.0,2,2,0,0,100.0,0.0,Normal,0,0,0,0.8,0.65,Low Priority,BUY BIAS
+Fintech,19.2,40.0,41.7,41.0,1.9,LOW,7.2,5,3,1,1,20.0,1.7,Normal,0,1,1,0.54,0.58,Watch Closely,BUY BIAS
+Healthcare,0.0,100.0,100.0,100.0,0.0,LOW,7.8,4,4,0,0,100.0,0.0,Normal,0,0,0,0.72,0.6,Opportunity,BUY BIAS
+IT,16.7,35.3,41.0,38.7,23.7,LOW,7.2,17,9,3,5,41.2,5.7,Normal,0,1,4,0.58,0.54,Watch Closely,BUY BIAS
+Manufacturing,0.0,100.0,100.0,100.0,43.1,LOW,7.3,3,3,0,0,100.0,0.0,Normal,0,0,2,0.7,0.57,Opportunity,BUY BIAS
+Other,11.0,45.0,50.8,48.5,36.3,LOW,6.6,20,12,3,5,40.0,5.8,Normal,0,2,8,0.57,0.52,Monitor Risk,BUY BIAS
+Retail,0.0,100.0,100.0,100.0,200.0,LOW,8.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.7,0.6,Opportunity,BUY BIAS
