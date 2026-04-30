@@ -1,5 +1,4 @@
 sector,avg_weighted_risk,sentiment_nss,impact_weighted_sentiment,confidence_weighted_sentiment,composite_sentiment_index,sentiment_velocity,risk_level,avg_impact,total_mentions,positive_count,negative_count,neutral_count,momentum_score,divergence,divergence_flag,govt_signals,contrarian_count,geopolitical_flags,valence,arousal,sector_classification,investment_signal,dynamic_sector_weight
 Banking,0.0,100.0,100.0,100.0,100.0,0.0,LOW,8.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.5
 Healthcare,0.0,100.0,100.0,100.0,100.0,0.0,LOW,7.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.1
-Other,11.6,20.0,27.6,20.0,23.8,-5.0,LOW,5.8,10,4,2,4,30.0,7.6,Normal,0,0,6,0.5,0.5,Monitor Risk,NEUTRAL,0.7
-Startup,0.0,100.0,100.0,100.0,100.0,0.0,LOW,6.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Monitor Risk,BUY BIAS,0.9
+Other,13.1,37.5,47.3,37.5,42.4,0.0,LOW,6.9,8,5,2,1,50.0,9.8,Normal,0,0,1,0.5,0.5,Monitor Risk,BUY BIAS,0.7
