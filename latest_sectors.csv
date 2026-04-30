@@ -1,4 +1,26 @@
 sector,avg_weighted_risk,sentiment_nss,impact_weighted_sentiment,confidence_weighted_sentiment,composite_sentiment_index,sentiment_velocity,risk_level,avg_impact,total_mentions,positive_count,negative_count,neutral_count,momentum_score,divergence,divergence_flag,govt_signals,contrarian_count,geopolitical_flags,valence,arousal,sector_classification,investment_signal,dynamic_sector_weight
-Banking,0.0,100.0,100.0,100.0,100.0,0.0,LOW,8.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.5
-Healthcare,0.0,100.0,100.0,100.0,100.0,0.0,LOW,7.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.1
-Other,13.1,37.5,47.3,37.5,42.4,0.0,LOW,6.9,8,5,2,1,50.0,9.8,Normal,0,0,1,0.5,0.5,Monitor Risk,BUY BIAS,0.7
+Agriculture,12.5,50.0,52.4,50.0,51.2,0.0,LOW,5.2,4,3,1,0,50.0,2.4,Normal,0,0,0,0.5,0.5,Monitor Risk,BUY BIAS,1.0
+Aviation,0.0,100.0,100.0,100.0,100.0,0.0,LOW,6.0,1,1,0,0,100.0,0.0,Normal,0,0,1,0.5,0.5,Watch Closely,BUY BIAS,1.0
+Banking,33.6,14.3,22.0,14.3,18.2,0.0,MEDIUM,5.9,7,4,3,0,14.3,7.7,Normal,0,0,0,0.5,0.5,Monitor Risk,IMPROVING,1.5
+Dairy,0.0,100.0,100.0,100.0,100.0,0.0,LOW,6.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.0
+Defense,0.0,100.0,100.0,100.0,100.0,0.0,LOW,8.0,1,1,0,0,100.0,0.0,Normal,0,0,1,0.5,0.5,Watch Closely,BUY BIAS,1.0
+E-commerce,0.0,100.0,100.0,100.0,100.0,0.0,LOW,8.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.0
+Energy,100.0,-100.0,-100.0,-100.0,-100.0,0.0,HIGH,6.0,1,0,1,0,-100.0,0.0,Normal,0,0,1,0.5,0.5,Watch Closely,AVOID,1.4
+FMCG,25.0,-16.7,-6.9,-16.7,-11.8,0.0,MEDIUM,4.8,6,2,3,1,-16.7,9.8,Normal,0,0,1,0.5,0.5,Monitor Risk,NEUTRAL,1.0
+Finance,0.0,0.0,0.0,0.0,0.0,0.0,LOW,3.0,1,0,0,1,0.0,0.0,Normal,0,0,0,0.5,0.5,Monitor Risk,NEUTRAL,1.0
+Fintech,0.0,100.0,100.0,100.0,100.0,0.0,LOW,6.6,7,7,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.2
+Food,30.0,-100.0,-100.0,-100.0,-100.0,0.0,MEDIUM,2.0,1,0,1,0,-100.0,0.0,Normal,0,0,1,0.5,0.5,Monitor Risk,AVOID,1.0
+Government,0.0,100.0,100.0,100.0,100.0,0.0,LOW,6.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.0
+Healthcare,0.0,100.0,100.0,100.0,100.0,0.0,LOW,7.3,3,3,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.1
+Hospitality,0.0,100.0,100.0,100.0,100.0,0.0,LOW,6.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.0
+IT,15.4,42.1,49.1,42.1,45.6,0.0,LOW,6.0,19,12,4,3,42.1,7.0,Normal,0,0,2,0.5,0.5,Watch Closely,BUY BIAS,1.2
+Investment,0.0,100.0,100.0,100.0,100.0,0.0,LOW,7.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.0
+Manufacturing,11.0,40.0,56.2,40.0,48.1,0.0,LOW,6.4,5,3,1,1,40.0,16.2,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.1
+Other,11.9,13.6,22.4,13.6,18.0,0.0,LOW,5.2,81,31,20,30,13.6,8.8,Normal,0,0,21,0.5,0.5,Monitor Risk,IMPROVING,0.7
+Politics,20.0,-100.0,-100.0,-100.0,-100.0,0.0,MEDIUM,2.0,1,0,1,0,-100.0,0.0,Normal,0,0,0,0.5,0.5,Monitor Risk,AVOID,1.0
+Real Estate,0.0,100.0,100.0,100.0,100.0,0.0,LOW,5.0,1,1,0,0,100.0,0.0,Normal,0,0,1,0.5,0.5,Monitor Risk,BUY BIAS,1.0
+Retail,0.0,100.0,100.0,100.0,100.0,0.0,LOW,6.5,2,2,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,0.8
+Startup,4.5,50.0,69.7,50.0,59.8,0.0,LOW,5.5,6,4,1,1,50.0,19.7,Normal,0,0,0,0.5,0.5,Monitor Risk,BUY BIAS,0.9
+Tech,0.0,50.0,69.2,50.0,59.6,0.0,LOW,6.5,2,1,0,1,50.0,19.2,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.0
+Telecom,0.0,50.0,58.3,50.0,54.2,0.0,LOW,6.0,2,1,0,1,50.0,8.3,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.0
+Transport,0.0,100.0,100.0,100.0,100.0,0.0,LOW,6.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.0
