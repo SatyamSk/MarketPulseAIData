@@ -1,19 +1,20 @@
 sector,avg_weighted_risk,sentiment_nss,impact_weighted_sentiment,confidence_weighted_sentiment,composite_sentiment_index,sentiment_velocity,risk_level,avg_impact,total_mentions,positive_count,negative_count,neutral_count,momentum_score,divergence,divergence_flag,govt_signals,contrarian_count,geopolitical_flags,valence,arousal,sector_classification,investment_signal,dynamic_sector_weight
-Agriculture,45.0,-50.0,-54.5,-50.0,-52.2,0.0,HIGH,5.5,2,0,1,1,-50.0,4.5,Normal,0,0,1,0.5,0.5,Monitor Risk,AVOID,1.0
-Automobile,0.0,100.0,100.0,100.0,100.0,0.0,LOW,6.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Opportunity,BUY BIAS,1.0
-Automotive,0.0,66.7,75.0,66.7,70.8,0.0,LOW,6.7,3,2,0,1,66.7,8.3,Normal,0,0,0,0.5,0.5,Opportunity,BUY BIAS,1.0
-Aviation,60.0,-100.0,-100.0,-100.0,-100.0,-28.6,HIGH,6.0,1,0,1,0,-100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,AVOID,1.0
-Banking,20.0,37.5,46.0,37.5,41.8,27.0,MEDIUM,6.2,8,5,2,1,37.5,8.5,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.5
-Cement,60.0,-100.0,-100.0,-100.0,-100.0,0.0,HIGH,6.0,1,0,1,0,-100.0,0.0,Normal,0,0,0,0.5,0.5,Watch Closely,AVOID,1.0
-Energy,56.8,-50.0,-55.4,-50.0,-52.7,-43.3,HIGH,6.5,10,1,6,3,-50.0,5.4,Normal,0,0,6,0.5,0.5,Watch Closely,AVOID,1.4
-FMCG,15.0,33.3,40.5,33.3,36.9,17.9,LOW,6.2,6,3,1,2,33.3,7.2,Normal,0,0,1,0.5,0.5,Opportunity,BUY BIAS,1.0
-Fintech,0.0,75.0,79.2,75.0,77.1,71.9,LOW,6.0,8,6,0,2,75.0,4.2,Normal,0,0,0,0.5,0.5,Opportunity,BUY BIAS,1.2
-Geopolitical,100.0,-100.0,-100.0,-100.0,-100.0,0.0,HIGH,7.0,1,0,1,0,-100.0,0.0,Normal,0,0,1,0.5,0.5,Watch Closely,AVOID,1.0
-Healthcare,0.0,75.0,80.8,75.0,77.9,32.1,LOW,6.5,4,3,0,1,75.0,5.8,Normal,0,0,0,0.5,0.5,Opportunity,BUY BIAS,1.1
-IT,12.0,60.0,69.7,60.0,64.8,-8.0,LOW,6.6,5,4,1,0,60.0,9.7,Normal,0,0,0,0.5,0.5,Opportunity,BUY BIAS,1.2
-Logistics,50.0,-100.0,-100.0,-100.0,-100.0,0.0,HIGH,5.0,1,0,1,0,-100.0,0.0,Normal,0,0,0,0.5,0.5,Monitor Risk,AVOID,1.0
-Manufacturing,23.2,0.0,0.0,0.0,0.0,-43.4,MEDIUM,5.9,9,3,3,3,0.0,0.0,Normal,0,0,0,0.5,0.5,Monitor Risk,NEUTRAL,1.1
-Other,9.9,5.5,9.7,5.5,7.6,6.0,LOW,5.4,55,15,12,28,5.5,4.2,Normal,0,0,9,0.5,0.5,Low Priority,NEUTRAL,0.7
-Real Estate,0.0,100.0,100.0,100.0,100.0,0.0,LOW,7.5,4,4,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Opportunity,BUY BIAS,1.0
-Retail,32.0,-100.0,-100.0,-100.0,-100.0,-200.0,MEDIUM,4.0,1,0,1,0,-100.0,0.0,Normal,0,0,0,0.5,0.5,Monitor Risk,AVOID,0.8
-Startup,0.0,33.3,42.9,33.3,38.1,-61.9,LOW,4.7,3,1,0,2,33.3,9.6,Normal,0,0,0,0.5,0.5,Low Priority,BUY BIAS,0.9
+Agriculture,0.0,100.0,100.0,100.0,100.0,152.2,LOW,5.3,3,3,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Low Priority,BUY BIAS,1.0
+Automobile,0.0,0.0,0.0,0.0,0.0,-100.0,LOW,5.0,2,0,0,2,0.0,0.0,Normal,0,0,0,0.5,0.5,Low Priority,NEUTRAL,1.0
+Banking,0.0,60.0,68.8,60.0,64.4,22.6,LOW,6.4,5,3,0,2,60.0,8.8,Normal,0,0,0,0.5,0.5,Opportunity,BUY BIAS,1.5
+Construction,90.0,-100.0,-100.0,-100.0,-100.0,0.0,HIGH,6.0,1,0,1,0,-100.0,0.0,Normal,0,0,1,0.5,0.5,Watch Closely,AVOID,1.0
+Energy,40.6,14.3,26.1,14.3,20.2,72.9,MEDIUM,6.6,7,4,3,0,42.9,11.8,Normal,0,0,3,0.5,0.5,Watch Closely,IMPROVING,1.4
+Equity Market,30.0,-50.0,-54.5,-50.0,-52.2,0.0,MEDIUM,5.5,2,0,1,1,-50.0,4.5,Normal,0,0,0,0.5,0.5,Monitor Risk,AVOID,1.0
+FMCG,25.0,0.0,9.1,0.0,4.6,-32.3,MEDIUM,5.5,2,1,1,0,0.0,9.1,Normal,0,0,0,0.5,0.5,Monitor Risk,NEUTRAL,1.0
+Fertilizer,60.0,-100.0,-100.0,-100.0,-100.0,0.0,HIGH,4.0,1,0,1,0,-100.0,0.0,Normal,0,0,1,0.5,0.5,Monitor Risk,AVOID,1.0
+Fintech,0.0,100.0,100.0,100.0,100.0,22.9,LOW,7.0,1,1,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Opportunity,BUY BIAS,1.2
+Healthcare,0.0,50.0,58.3,50.0,54.2,-23.7,LOW,6.0,2,1,0,1,50.0,8.3,Normal,0,0,0,0.5,0.5,Opportunity,BUY BIAS,1.1
+IT,15.7,46.2,58.3,46.2,52.2,-12.6,LOW,7.4,13,9,3,1,46.2,12.1,Normal,0,0,1,0.5,0.5,Watch Closely,BUY BIAS,1.2
+Manufacturing,12.2,44.4,56.9,44.4,50.6,50.6,LOW,6.4,9,6,2,1,44.4,12.5,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,1.1
+Mining,0.0,0.0,0.0,0.0,0.0,0.0,LOW,5.0,1,0,0,1,0.0,0.0,Normal,0,0,0,0.5,0.5,Low Priority,NEUTRAL,1.0
+Other,8.5,30.0,38.7,30.0,34.4,26.8,LOW,5.4,30,15,6,9,30.0,8.7,Normal,0,0,6,0.5,0.5,Low Priority,BUY BIAS,0.7
+Real Estate,16.7,0.0,12.5,0.0,6.2,-93.8,LOW,5.3,3,1,1,1,0.0,12.5,Normal,0,0,0,0.5,0.5,Monitor Risk,NEUTRAL,1.0
+Services,0.0,100.0,100.0,100.0,100.0,0.0,LOW,7.0,2,2,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Opportunity,BUY BIAS,1.0
+Startup,9.0,60.0,71.4,60.0,65.7,27.6,LOW,7.0,5,4,1,0,60.0,11.4,Normal,0,0,0,0.5,0.5,Watch Closely,BUY BIAS,0.9
+Technology,36.7,-33.3,-10.0,-33.3,-21.6,0.0,MEDIUM,6.7,3,1,2,0,-33.3,23.3,Normal,0,0,0,0.5,0.5,Watch Closely,NEUTRAL,1.0
+Telecom,0.0,100.0,100.0,100.0,100.0,0.0,LOW,7.5,2,2,0,0,100.0,0.0,Normal,0,0,0,0.5,0.5,Opportunity,BUY BIAS,1.0
